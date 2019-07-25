@@ -2,9 +2,8 @@
   "name": "my-app",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://taylornoeljordan.github.io/portfolio/",
+  "homepage": "https://taylornoeljordan.github.io/portfolio-taylorjordan/",
   "dependencies": {
-    "gh-pages": "^2.0.1",
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
     "react-router": "^5.0.1",
@@ -35,6 +34,7 @@
     ]
   },
   "devDependencies": {
+    "gh-pages": "^2.0.1",
     "react-alice-carousel": "^1.15.2"
   }
 }
