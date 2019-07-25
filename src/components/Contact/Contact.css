@@ -1,0 +1,18 @@
+
+
+.contact-info {
+    background-color: #cce0e0;
+    border-radius: 15px;
+    float: right;
+    font-family: 'Antic', sans-serif;
+    font-size: 1.3em;
+    margin: 15px;
+    opacity: 0.8;
+    padding: 30px;
+    text-align: left;
+    width: 600px;
+}
+
+h3 {
+    margin: 10px;
+}
