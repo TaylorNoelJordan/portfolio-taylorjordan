@@ -13,7 +13,6 @@ const NavBar = () => {
         <a href='#projects' className='nav-link'><img src={projectsImg} alt='' className='icon'/>Projects</a>
         {/* <a href='#blogs' className='nav-link'><img src={blogImg} alt='' className='icon'/>Blog</a> */}
         <a href='#contact' className='nav-link'><img src={contactImg} alt='' className='icon'/>Contact</a>
-        <a href='back-to-top' className='nav-link top'>△ Top</a>
     </nav>
     )
 }

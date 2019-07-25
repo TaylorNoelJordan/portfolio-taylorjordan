@@ -6,7 +6,7 @@ const Home = () => {
     return (
         <section className='home-page'>
             <img src={office} alt='sunny work space with plant and laptop' className='main-pic'/>
-            <h1 className='intro-heading' id="back-to-top">Taylor Noel Jordan</h1>
+            <h1 className='intro-heading'>Taylor Noel Jordan</h1>
         </section>
     )
 }

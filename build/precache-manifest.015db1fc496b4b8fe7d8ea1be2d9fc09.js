@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "82dba8a71c2beabf26eca1164d1acf5b",
+    "revision": "52ccf2f3d3b6479a9489edcc116bb625",
     "url": "/portfolio-taylorjordan/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/portfolio-taylorjordan/static/css/2.a881067f.chunk.css"
   },
   {
-    "revision": "f1410003b3c8009a74fc",
+    "revision": "e021e24f1485e1ff0c7a",
     "url": "/portfolio-taylorjordan/static/css/main.6d9a1d06.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/portfolio-taylorjordan/static/js/2.46d2f3a7.chunk.js"
   },
   {
-    "revision": "f1410003b3c8009a74fc",
-    "url": "/portfolio-taylorjordan/static/js/main.f1c74d99.chunk.js"
+    "revision": "e021e24f1485e1ff0c7a",
+    "url": "/portfolio-taylorjordan/static/js/main.a31b1090.chunk.js"
   },
   {
     "revision": "caaf10b7db1b386a1d39",
