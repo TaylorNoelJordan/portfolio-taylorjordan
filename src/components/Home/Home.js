@@ -4,7 +4,7 @@ import office from '../../images/alesia-kazantceva-iYoAPaSPBKI-unsplash.jpg';
 
 const Home = () => {
     return (
-        <section className='home-page' id="home">
+        <section className='home-page' id="back-to-top">
             <img src={office} alt='sunny work space with plant and laptop' className='main-pic'/>
             <h1 className='intro-heading'>Taylor Noel Jordan</h1>
         </section>
